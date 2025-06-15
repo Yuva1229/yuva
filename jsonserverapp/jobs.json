@@ -1,0 +1,95 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "jobtitle": "Frontend Developer",
+      "companyname": "microsoft",
+      "location": "Chennai",
+      "jobtype": "FullTime",
+      "start": "50000",
+      "end": "70000",
+      "appli": "2025-12-31",
+      "experience": "0-1 yrs",
+      "desc": "Develop UI components using Angular and Bootstrap.",
+      "postedTime": "2025-06-13T14:30:00Z"
+    },
+    {
+      "id": 2,
+      "jobtitle": "Backend Developer",
+      "companyname": "swiggy",
+      "location": "Bangalore",
+      "jobtype": "PartTime",
+      "start": "60000",
+      "end": "80000",
+      "appli": "2025-11-30",
+      "experience": "2-3 yrs",
+      "desc": "Build REST APIs using Node.js and Express.",
+      "postedTime": "2025-06-14T10:00:00Z"
+    },
+    {
+      "id": 3,
+      "jobtitle": "Full Stack Developer",
+      "companyname": "Amazon",
+      "location": "Hyderabad",
+      "jobtype": "FullTime",
+      "start": "75000",
+      "end": "10000",
+      "appli": "2025-12-15",
+      "experience": "3-5 yrs",
+      "desc": "Work on both frontend and backend development.",
+      "postedTime": "2025-06-15T09:30:00Z"
+    },
+    {
+      "id": 4,
+      "jobtitle": "Software Engineer",
+      "companyname": "Google",
+      "location": "Chennai",
+      "jobtype": "Internship",
+      "start": "15000",
+      "end": "25000",
+      "appli": "2025-10-30",
+      "experience": "Fresher",
+      "desc": "Assist in software development and testing.",
+      "postedTime": "2025-06-16T12:00:00Z"
+    },
+    {
+      "id": 5,
+      "jobtitle": "UI/UX Designer",
+      "companyname": "microsoft",
+      "location": "Mumbai",
+      "jobtype": "FullTime",
+      "start": "40000",
+      "end": "60000",
+      "appli": "2025-12-01",
+      "experience": "1-2 yrs",
+      "desc": "Design user interfaces and improve user experience.",
+      "postedTime": "2025-06-17T11:45:00Z"
+    },
+    {
+      "id": 6,
+      "jobtitle": "Data Analyst",
+      "companyname": "Amazon",
+      "location": "Bangalore",
+      "jobtype": "PartTime",
+      "start": "35000",
+      "end": "50000",
+      "appli": "2025-11-15",
+      "experience": "1-3 yrs",
+      "desc": "Analyze data trends and provide reports.",
+      "postedTime": "2025-06-18T14:20:00Z"
+    },
+    {
+      "id": "4594",
+      "jobtitle": "front end enginner",
+      "companyname": "Amazon",
+      "location": "Chennai",
+      "jobtype": "FullTime",
+      "start": "20000",
+      "end": "30000",
+      "appli": "2025-06-30",
+      "experience": "1-5",
+      "desc": "The layer icon is often named \"Layers\". It is commonly represented by a stack of overlapping rectangles, visually indicating the concept of layered elements. You can find this icon in various design software",
+      "postedTime": "2025-06-15T08:34:04.005Z"
+    }
+  ]
+}
